@@ -1,4 +1,3 @@
-# AutoMon 🚀
 ![logo](https://github.com/user-attachments/assets/20de5024-4fcd-4535-b475-a9baee66e3ee)
 
 # 🚀 AutoMon – Самоисцеляющийся мониторинг серверов!
